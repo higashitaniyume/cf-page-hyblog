@@ -1,11 +1,11 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jun 19 2024'
+title: 'Markdown 样式向导'
+description: '这里是用来预览Astro 项目是如何渲染Markdown的页面'
+pubDate: '2026-04-09'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+这里是用来预览Astro 项目是如何渲染Markdown的页面
 
 ## Headings
 
